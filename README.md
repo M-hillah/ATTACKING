@@ -1,7 +1,3 @@
-# ATTACKING
-
-#INSTALLER
-
-#DDOS
+# ATTACKING 
 
 
