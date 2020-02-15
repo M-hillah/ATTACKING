@@ -194,7 +194,7 @@ git clone https://github.com/CybernetiX-S3C/InfoSploit
 cd InfoSploit
 chmod +x install
 ./install
-Infosploit
+python2 infosploit.py
 fi
 
 if [ $pil = 15 ]
