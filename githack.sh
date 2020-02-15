@@ -30,7 +30,8 @@ echo $i"|"$me"11"$i" |"$pu" Rapidscan"
 echo $i"|"$me"12"$i" |"$pu" Lockdoor"
 echo $i"|"$me"13"$i" |"$pu" Getwin (win32 payload)"
 echo $i"|"$me"14"$i" |"$pu" Infosploit"
-echo $i"|"$me"15"$i" |"$pu" Exit"
+echo $i"|"$me"15"$i" |"$pu" (install bahan bahan agar tidak terjadi eror)"
+echo $i"|"$me"16"$i" |"$pu" Exit"
 echo $i"===================================================="
 echo $me"┌==="$bi"["$i"GITHACK"$bi"]"$me"======"$bi"["$i""Masukan Nomor""$bi"]"
 echo $me"¦"
@@ -197,6 +198,21 @@ Infosploit
 fi
 
 if [ $pil = 15 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+gem install lolcat
+apt-get install ruby
+apt-get install python2
+apt-get install python3
+apt-get install git 
+apt-get install ruby
+apt-get install sudo
+apt-get install bash
+fi
+
+if [ $pil = 16 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
