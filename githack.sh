@@ -99,7 +99,7 @@ figlet -f slant "W A I T"|lolcat
 sleep 1
 git clone https://github.com/haroonawanofficial/Tishna-Automated-Web-Application-Hacker Tishna
 cd Tishna
-sudo bash Kali_Installer.sh
+sudo bash tishna Kali_Installer.sh
 tishna
 fi
 
