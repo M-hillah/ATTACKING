@@ -124,6 +124,7 @@ cd avet
 sudo bash setup.sh
 sudo gcc -o make_avet make_avet.c
 sudo python3 avet_fabric.py
+fi
 
 if [ $pil = 9 ]
 then
