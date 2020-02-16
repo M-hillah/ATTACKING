@@ -122,19 +122,8 @@ pesta installer.sh
 python3 PhishX.py
 fi
 
-if [ $pil = 7 ]
-then
-clear
-figlet -f slant "W A I T"|lolcat
-sleep 1
-git clone https://github.com/rezaaksa/PhishX
-cd PhishX
-pesta installer.sh
-python3 PhishX.py
-fi
-
 if [ $pil = 8 ]
-then
+Then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
@@ -232,7 +221,7 @@ apt-get install sudo
 apt-get install bash
 fi
 
-if [ $pil = 17 ]
+if [ $pil = 16 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -240,11 +229,11 @@ sleep 1
 pip3 install setuptools
 git clone https://github.com/arthastang/IoT-Implant-Toolkit
 cd IoT-Implant-Toolkit
- python3 setup.py install
+python3 setup.py install
 python3 IoT-Implant-Toolkit.py
 fi
 
-if [ $pil = 18 ]
+if [ $pil = 17 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -255,7 +244,7 @@ pip3 install -r requirements.txt
 python3 brutespray.py 
 fi
 
-if [ $pil = 19 ]
+if [ $pil = 18 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -266,7 +255,7 @@ pip2 install -r requirements.txt
 python2 brutality.py 
 fi
 
-if [ $pil = 20 ]
+if [ $pil = 19 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -277,7 +266,7 @@ bash update.sh
 bash discover.sh
 fi
 
-if [ $pil = 21 ]
+if [ $pil = 20 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -288,7 +277,7 @@ sudo python installer.py
 sudo python zsc.py
 fi
 
-if [ $pil = 22 ]
+if [ $pil = 21 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
